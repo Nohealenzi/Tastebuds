@@ -1,0 +1,9 @@
+---
+title: Brainstorming1_IacopoNoheaLenzi
+
+---
+
+# Brainstorming
+One app that I find myself using often and I think has some nice features is Yuka. This app has a very simplistic UI yet presents itself very well. It scans the barcode of any product or food item and breaks down the contents of the ingredients list. The first thing it shows you is a rating of 0 to 100% on the quality of the product, then it breaks down the rating in base of the ingredients it contains. I really like the breakdown feature because instead of showing you every single ingredient it starts with the most harmful and the healthier or least harmful ones. Then you can continue searching for the rest of the ingredients and what they do. Additionally in the breakdown it tells you what those ingredients are known for, if they are benefitial, it explains why, but if they are harmful, it explains what they are known to cause or what they are correlated with. 
+
+Another app I really enjoy is stoic, this app is a journaling/mental health app that allows for meditations, quotes, and affirmations. One of the main features I like about this app is that for the journaling side of it, instead of just providing a blank canvas for you to write it guides the intention behind your journaling. It starts off by presenting a slider of how intense your emotions are feeling right now. It goes from very good to very bad, then depending on your selection it presents you with a range of emotions to pick from in each category. These range from ecstatic, cheerful and bliss, to melancholic, sad, angry, depressed, and furious. Then for each emotion it presents a short reflexion about that emotion followed by some prompt for you to express yourself regarding that emotion. Additionally, I really like one of their premium features that allows for AI integration into your daily journaling and meditations. This deepens the reflexions and gives the user more feedback on what they have written.
